@@ -1,0 +1,218 @@
+{
+  "language_framework": [
+    {
+      "id": "1",
+      "title": "JavaScript",
+      "src": "https://lh3.googleusercontent.com/1ZPUcY76TcoA-qYiCXERe4lTj6FoJgXDR_5_-aFYI78tXYGUp5hmLxJdlbgnbh_lpHg=w2400"
+    },
+    {
+      "id": "2",
+      "title": "HTML",
+      "src": "https://lh5.googleusercontent.com/NNYMLTcl7nPRNkNErJz17gHsCD8KsXkHGmuXyxwdftUB9QURREAPClWjk7YCLKd_jKs=w2400"
+    },
+    {
+      "id": "3",
+      "title": "CSS",
+      "src": "https://lh3.googleusercontent.com/04faxbvpOV639ZOhGpv3WQLESrzUUKGWAtSEarwiw8EGjW5E636zuPmpNHl-gJf9aH0=w2400"
+    },
+    {
+      "id": "4",
+      "title": "React",
+      "src": "https://lh6.googleusercontent.com/fXw1iHarB3XhTJGG3I4dty4bkmZeI0b_99ns5PvOwHYVhNJFh63biABfNIxB8D_0zpY=w2400"
+    },
+    {
+      "id": "4.1",
+      "title": "Chakra UI",
+      "src": "https://lh3.googleusercontent.com/sorkqLEqIwFlWRlnTcZoEXqWls90FK-Sr2SqVqqk0nxaytIUTad0_99v0deP-EhaNEY=w2400"
+    },
+    {
+      "id": "5",
+      "title": "Redux",
+      "src": "https://lh5.googleusercontent.com/fIY8_nCkUbVDqzQA_RNU_H7u6X3hKQB9hm89AoK_6R4s3nGcUqLiK5UEJaNBlOksqVI=w2400"
+    },
+    {
+      "id": "6",
+      "title": "TypeScript",
+      "src": "https://lh6.googleusercontent.com/s2qColQxmPloRaM3bC5MmqqRwd6gBqcPFGy3aOpIsxnvW_vqoiaTYP0sk9qDHvHxU2E=w2400"
+    },
+    {
+      "id": "7",
+      "title": "Next.js",
+      "src": "https://lh5.googleusercontent.com/FTnZWsfBdI9Qc0OEhXslXCK3I-go16ZRNW-s8kj_pqYrpF3ArVjfGwvTUSqslYB135U=w2400"
+    },
+    {
+      "id": "9",
+      "title": "Node.js",
+      "src": "https://lh6.googleusercontent.com/tXNLS_WNn7Au_8b88Ad-lxR-t6-6dwia-b10IHGpmKLvu9m2qVzOM12Km1itXIUW4R0=w2400"
+    },
+    {
+      "id": "10",
+      "title": "Express.js",
+      "src": "https://lh5.googleusercontent.com/SpfOfQv4t81-bzaD8qc4vh0kVlpqxiwXCqr8lDah7Yg-7h2xPwmjRHhSlG7CdFFMMLE=w2400"
+    },
+    {
+      "id": "11",
+      "title": "MongoDB",
+      "src": "https://lh5.googleusercontent.com/sWK4D9RG1eXnBJbGW0kMLlpJEQnOkpV9X5rUkPRqSmV3KddXv3na-xnktyv8nzdGMko=w2400"
+    },
+    {
+      "id": "8",
+      "title": "C++",
+      "src": "https://lh5.googleusercontent.com/pZQwVyblz9SCebF6_ClXcuKT3OMF-0X9tpaDD0MmwOmMqCVoPHWAahgDD3yZmM0UphI=w2400"
+    }
+  ],
+  "tools": [
+    {
+      "id": "t1",
+      "title": "VS Code",
+      "src": "https://lh5.googleusercontent.com/5ES-Ty5oZV246Psq5ABbOGxOn3MN5piHduRfeQRlXNj3aAW32v7K9rHYaSqdvOjFFfQ=w2400"
+    },
+    {
+      "id": "t2",
+      "title": "GitHub",
+      "src": "https://lh3.googleusercontent.com/Jsfx3bA6moJS-tEDo4DYw5sT6Pjb4USUHIsm4hJufts0_Mx8Pe6jUy2uBUfmGi_PJfE=w2400"
+    },
+    {
+      "id": "t3",
+      "title": "Netlify",
+      "src": "https://lh6.googleusercontent.com/DlhzhOgySj8eJ95seFKI0ZjL3cNoc6laOlURLFgn0o-nWGZwAcXwu8iWrnMaO9Oqzu8=w2400"
+    },
+    {
+      "id": "t4",
+      "title": "Vercel",
+      "src": "https://lh3.googleusercontent.com/Ac-UNFd11KJgg7nKunVXZFbD3YmuQa3aMqRq24Sf5-0FWFDpDP5ZAX1eWUq4XmfH8bM=w2400"
+    },
+    {
+      "id": "t5",
+      "title": "Windows 10",
+      "src": "https://lh3.googleusercontent.com/93mV3oDvmv3AmktbEx1AhEbCBhLLCqZdtsLYKyOHO2dBRdfNGKIQpLDa4ioDgS6In7Y=w2400"
+    },
+    {
+      "id": "t6",
+      "title": "MS Word",
+      "src": "https://lh4.googleusercontent.com/62oFPfBmnw9iOoROD_7QUTAaqnCtEaOS55VbZQ6-yIF5DVz0-PcLh_3YSD-hpjFgFiQ=w2400"
+    }
+  ],
+  "projects": [
+    {
+      "id": "p1",
+      "image": "https://lh3.googleusercontent.com/yN0xLI2YC78jLxU4L_H5b_NzTW6DtJKGAyiCVEvPjb1OByITB4MX7-fNoO93R1yPvzE=w2400",
+      "title": "Homedecor",
+      "description": "Homedecor is an e-commerce platform that offers a wide range of home decor products. User-friendly interface, easy browsing, filtering and payment options. Built with React, and json server.",
+      "tech_stack": [
+        {
+          "id": "t1",
+          "title": "React",
+          "src": "https://lh6.googleusercontent.com/fXw1iHarB3XhTJGG3I4dty4bkmZeI0b_99ns5PvOwHYVhNJFh63biABfNIxB8D_0zpY=w2400"
+        },
+        {
+          "id": "t2",
+          "title": "Chakra UI",
+          "src": "https://lh3.googleusercontent.com/sorkqLEqIwFlWRlnTcZoEXqWls90FK-Sr2SqVqqk0nxaytIUTad0_99v0deP-EhaNEY=w2400"
+        },
+        {
+          "id": "t3",
+          "title": "Redux",
+          "src": "https://lh5.googleusercontent.com/fIY8_nCkUbVDqzQA_RNU_H7u6X3hKQB9hm89AoK_6R4s3nGcUqLiK5UEJaNBlOksqVI=w2400"
+        },
+        {
+          "id": "t4",
+          "src": "https://lh3.googleusercontent.com/1ZPUcY76TcoA-qYiCXERe4lTj6FoJgXDR_5_-aFYI78tXYGUp5hmLxJdlbgnbh_lpHg=w2400",
+          "title": "JavaScript"
+        },
+        {
+          "id": "t5",
+          "src": "https://lh5.googleusercontent.com/NNYMLTcl7nPRNkNErJz17gHsCD8KsXkHGmuXyxwdftUB9QURREAPClWjk7YCLKd_jKs=w2400",
+          "title": "HTML"
+        },
+        {
+          "id": "t6",
+          "src": "https://lh3.googleusercontent.com/04faxbvpOV639ZOhGpv3WQLESrzUUKGWAtSEarwiw8EGjW5E636zuPmpNHl-gJf9aH0=w2400",
+          "title": "CSS"
+        }
+      ],
+      "github": "https://github.com/khanahmad4527/HomeDecor",
+      "deploy": "https://homedecor-sand.vercel.app/"
+    },
+    {
+      "id": "p2",
+      "image": "https://lh4.googleusercontent.com/QjmsuXkt2kMdJJ0FaGcr9uj1lyDdlFtGtCc22m_v0aWgFGjZfizZ-UUHMBzFd4Bwbao=w2400",
+      "title": "Survey Company",
+      "description": "Survey Company is a cloud-based survey application that assists users in the creation, distribution, and analysis of surveys. To boost response rates, users can send surveys to respondents and publish them on their websites and social media accounts.",
+      "tech_stack": [
+        {
+          "id": "t1",
+          "src": "https://lh3.googleusercontent.com/1ZPUcY76TcoA-qYiCXERe4lTj6FoJgXDR_5_-aFYI78tXYGUp5hmLxJdlbgnbh_lpHg=w2400",
+          "title": "JavaScript"
+        },
+        {
+          "id": "t2",
+          "src": "https://lh5.googleusercontent.com/NNYMLTcl7nPRNkNErJz17gHsCD8KsXkHGmuXyxwdftUB9QURREAPClWjk7YCLKd_jKs=w2400",
+          "title": "HTML"
+        },
+        {
+          "id": "t3",
+          "src": "https://lh3.googleusercontent.com/04faxbvpOV639ZOhGpv3WQLESrzUUKGWAtSEarwiw8EGjW5E636zuPmpNHl-gJf9aH0=w2400",
+          "title": "CSS"
+        },
+        {
+          "id": "t4",
+          "src": "https://lh3.googleusercontent.com/hRjs11EL5wRR-PcNyPg0356k0v9iaot_BovbhUV3MVOiqdvUjfHiT1Tvg1Lpu-D9e4U=w2400",
+          "title": "JSON"
+        }
+      ],
+      "github": "https://github.com/khanahmad4527/survey_company_cwp02",
+      "deploy": "https://roaring-cendol-2586db.netlify.app/userhtml/userlanding"
+    },
+    {
+      "id": "p3",
+      "image": "https://lh4.googleusercontent.com/2_vYEIonfmjYD9I_N5vO_y2kfq63_zR_Gt2nAkp8x8GneN7VaxJEFf4ieOkxKPXVXbc=w2400",
+      "title": "Twiik",
+      "description": "Twiik is a fitness company which provide membership to track the health of a user and best trainers, gyms & coaches all in one app.",
+      "tech_stack": [
+        {
+          "id": "t1",
+          "src": "https://lh3.googleusercontent.com/1ZPUcY76TcoA-qYiCXERe4lTj6FoJgXDR_5_-aFYI78tXYGUp5hmLxJdlbgnbh_lpHg=w2400",
+          "title": "JavaScript"
+        },
+        {
+          "id": "t2",
+          "src": "https://lh5.googleusercontent.com/NNYMLTcl7nPRNkNErJz17gHsCD8KsXkHGmuXyxwdftUB9QURREAPClWjk7YCLKd_jKs=w2400",
+          "title": "HTML"
+        },
+        {
+          "id": "t3",
+          "src": "https://lh3.googleusercontent.com/04faxbvpOV639ZOhGpv3WQLESrzUUKGWAtSEarwiw8EGjW5E636zuPmpNHl-gJf9aH0=w2400",
+          "title": "CSS"
+        }
+      ],
+      "github": "https://github.com/khanahmad4527/twiik-fitness-app",
+      "deploy": "https://lucent-starlight-406966.netlify.app/"
+    },
+    {
+      "id": "p4",
+      "image": "https://lh6.googleusercontent.com/8SCRJsqt8ON2lYHXSJQafOo4vAIRzIaV81i7hNorgsg0KOBn-4I5E6Pg36rbQMAvoEM=w2400",
+      "title": "Simple Youtube",
+      "description": "This application allows users to search for YouTube videos and play them within the app. The app also has sorting functionality, allowing users to sort videos by views, alphabetically, and popularity.",
+      "tech_stack": [
+        {
+          "id": "t1",
+          "src": "https://lh3.googleusercontent.com/1ZPUcY76TcoA-qYiCXERe4lTj6FoJgXDR_5_-aFYI78tXYGUp5hmLxJdlbgnbh_lpHg=w2400",
+          "title": "JavaScript"
+        },
+        {
+          "id": "t2",
+          "src": "https://lh5.googleusercontent.com/NNYMLTcl7nPRNkNErJz17gHsCD8KsXkHGmuXyxwdftUB9QURREAPClWjk7YCLKd_jKs=w2400",
+          "title": "HTML"
+        },
+        {
+          "id": "t3",
+          "src": "https://lh3.googleusercontent.com/04faxbvpOV639ZOhGpv3WQLESrzUUKGWAtSEarwiw8EGjW5E636zuPmpNHl-gJf9aH0=w2400",
+          "title": "CSS"
+        }
+      ],
+      "github": "https://github.com/khanahmad4527/Simple-Youtube",
+      "deploy": "https://simple-youtube-app-45.netlify.app/"
+    }
+  ]
+}
